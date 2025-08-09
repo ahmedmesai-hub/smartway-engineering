@@ -1,0 +1,13 @@
+{
+  "title": "Smartway Engineering - Smart Project Management",
+  "description": "Smartway: Civil engineering studies, field monitoring, and a smart project app.",
+  "welcome": "Welcome to Smartway Engineering",
+  "intro": "We provide geotechnical studies, site monitoring, and digital tools to manage infrastructure projects.",
+  "services_title": "Our Services",
+  "service_geo": "Geotechnical studies & soil testing",
+  "service_monitor": "Field monitoring and inspections",
+  "service_app": "Smart project management app (GPS, reports, offline)",
+  "nav_home": "Home",
+  "nav_services": "Services",
+  "nav_contact": "Contact"
+}

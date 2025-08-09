@@ -1,0 +1,13 @@
+{
+  "title": "Smartway Engineering - Gestion intelligente de projets",
+  "description": "Smartway : études de génie civil, surveillance de chantier et application intelligente.",
+  "welcome": "Bienvenue chez Smartway Engineering",
+  "intro": "Nous fournissons des études géotechniques, le suivi de chantier et des outils numériques pour gérer les projets d'infrastructure.",
+  "services_title": "Nos Services",
+  "service_geo": "Études géotechniques & essais de sol",
+  "service_monitor": "Surveillance et inspections de chantier",
+  "service_app": "Application de gestion de projet (GPS, rapports, hors-ligne)",
+  "nav_home": "Accueil",
+  "nav_services": "Services",
+  "nav_contact": "Contact"
+}
